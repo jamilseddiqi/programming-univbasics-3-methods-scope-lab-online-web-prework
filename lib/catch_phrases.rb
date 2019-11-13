@@ -1,13 +1,7 @@
 
 
-def name (mario)
-  name = "It's-a me, Mario"
-  puts "It's-a me, Mario"
+def name (link)
+  nmae +  "puts out 'It's Dangerous To Go Alone! Take This.'"
+  puts  "puts out 'It's Dangerous To Go Alone! Take This.'"
 end
-name
-
-def name (toadstool)
-  name = "thank You Mario! But Our Princess Is In Another Castle!"
-  puts "thank You Mario! But Our Princess Is In Another Castle!"
-end
-name
+  name
