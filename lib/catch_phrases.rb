@@ -1,7 +1,7 @@
 
 
-def name (link)
-  nmae +  "puts out 'It's Dangerous To Go Alone! Take This.'"
-  puts  "puts out 'It's Dangerous To Go Alone! Take This.'"
+def name (any_phrase)
+  nmae = "Do A Barrel Roll!"
+  puts  "Do A Barrel Roll!"
 end
   name
